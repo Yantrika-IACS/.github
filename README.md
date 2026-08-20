@@ -1,0 +1,13 @@
+# Hi, welcome to Yantrika
+
+### Robotics and Coding Club of IACS
+
+> **Imagine. Build. Experiment. Repeat.**
+
+Yantrika is a student-run robotics and coding club of the **Indian Association for the Cultivation of Science (IACS)**, under the Research Scholar Association.
+
+Robotics brings together **physics, mathematics, electronics, computing, and engineering**. Yantrika aims to provide a space where students can move beyond learning individual concepts and use them to build complete systems.
+
+We believe in learning through **experimentation, collaboration, and making things work**.
+
+---
