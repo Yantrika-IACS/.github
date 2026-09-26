@@ -1,6 +1,8 @@
 ## Hi there Welcome to Yantrika👋
 
-<img width="1919" height="1079" alt="Screenshot 2026-08-20 222936" src="https://github.com/user-attachments/assets/7a57e388-8efb-4fe9-b1f5-aab75b6c2677" />
+<img width="1084" height="453" alt="WhatsApp Image 2026-09-19 at 01 59 26" src="https://github.com/user-attachments/assets/f5fa6a35-8b21-4f86-9ef0-bce5ab2fdb33" />
+
+
 
 
 ### Robotics and Coding Club of IACS
